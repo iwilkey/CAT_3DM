@@ -1,0 +1,9 @@
+[submodule "miracleworkers"]
+	path = miracleworkers
+	url = https://github.com/ayyyeisa/miracleworkers
+[submodule "Seller_page"]
+	path = Seller_page
+	url = https://github.com/JG0313/Seller_page
+[submodule "CatProject"]
+	path = CatProject
+	url = https://github.com/MarcusJWatson/CatProject
