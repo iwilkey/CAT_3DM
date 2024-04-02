@@ -10,3 +10,9 @@
 [submodule "CS390-CatapillarIMVictory"]
 	path = CS390-CatapillarIMVictory
 	url = https://github.com/NDiCarlo/CS390-CatapillarIMVictory
+[submodule "Seller_Page"]
+	path = Seller_Page
+	url = https://github.com/JG0313/Seller_Page.git
+[submodule "PeakPerformersModule"]
+	path = PeakPerformersModule
+	url = https://github.com/alecpizz/PeakPerformersModule
