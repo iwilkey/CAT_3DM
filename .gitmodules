@@ -7,3 +7,6 @@
 [submodule "CatProject"]
 	path = CatProject
 	url = https://github.com/MarcusJWatson/CatProject
+[submodule "CS390-CatapillarIMVictory"]
+	path = CS390-CatapillarIMVictory
+	url = https://github.com/NDiCarlo/CS390-CatapillarIMVictory
