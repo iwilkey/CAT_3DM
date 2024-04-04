@@ -19,3 +19,6 @@
 [submodule "3DCaterpillarMarketplace"]
 	path = 3DCaterpillarMarketplace
 	url = https://github.com/hemap5/3DCaterpillarMarketplace
+[submodule "screen-warriors"]
+	path = screen-warriors
+	url = https://github.com/M21121/screen-warriors
