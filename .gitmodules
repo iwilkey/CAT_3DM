@@ -16,3 +16,6 @@
 [submodule "PeakPerformersModule"]
 	path = PeakPerformersModule
 	url = https://github.com/alecpizz/PeakPerformersModule
+[submodule "3DCaterpillarMarketplace"]
+	path = 3DCaterpillarMarketplace
+	url = https://github.com/hemap5/3DCaterpillarMarketplace
